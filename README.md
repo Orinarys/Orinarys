@@ -4,7 +4,7 @@
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](kevin.andrew08rs@gmail.com)[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](linkedin.com/in/kevin-andrew-389b6923a)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+)](httl://linkedin.com/in/kevin-andrew-389b6923a)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/kevin_andrew03/)
 
 ![orinarys GitHub stats](https://github-readme-stats.vercel.app/api?username=Orinarys&show_icons=true&theme=dracula)
