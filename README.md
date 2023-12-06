@@ -13,7 +13,7 @@
 </a>
 <img alian="right" alt="zoro" width="190" height="" src="https://i.pinimg.com/originals/6d/66/09/6d66093feee36862477d7195d675909f.gif"/>
 
-#
+#* 
 ### Tecnologias em estudo 
 
 <div style="display: inline_block"><br/>
