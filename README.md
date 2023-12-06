@@ -25,4 +25,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Orinarys)](https://github.com/anuraghazra/github-readme-stats)
 
-![snake gif](https://github.com/Orinarys/Orinarys/blob/output/github-contribution-grid-snake.svg)
