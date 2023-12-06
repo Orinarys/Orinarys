@@ -11,7 +11,7 @@
 
 ![orinarys GitHub stats](https://github-readme-stats.vercel.app/api?username=Orinarys&show_icons=true&theme=dracula)
 </a>
-<img alian="right" alt="zoro" width="190" height="" src="https://i.pinimg.com/originals/6d/66/09/6d66093feee36862477d7195d675909f.gif"/>
+<img alian="right" alt="zoro" width="200" height="" src="https://i.pinimg.com/originals/6d/66/09/6d66093feee36862477d7195d675909f.gif"/>
 
 #
 ### Tecnologias em estudo 
