@@ -1,7 +1,5 @@
 ### olá eu sou o Kevin Andrew ☃️
-- 👨🏻‍💻 *Novo na programação*
 - 🎓 *Analista de desenvolvimento de sistemas*
-- 🎓 *5 º semestre* 
 #
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
